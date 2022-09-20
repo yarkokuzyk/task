@@ -23,10 +23,10 @@ So then, just to make it more reusable, I added a function that asks user to inp
         
 # Task 2<br />
 SCENARIO: Check the Multiplier Counter with auto-generated array<br />
-GIVEN ArrayGenerate function is called
-AND array is filled with int numbers
-WHEN MultiplierCounter function is called
-THEN number of multipliers either 4 or 6 is shown
+GIVEN ArrayGenerate function is called<br />
+AND array is filled with int numbers<br />
+WHEN MultiplierCounter function is called<br />
+THEN number of multipliers either 4 or 6 is shown<br />
 
 
 SCENARIO: Check the Multiplier Counter with manualy-defined array<br />
