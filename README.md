@@ -21,11 +21,38 @@ So then, just to make it more reusable, I added a function that asks user to inp
         }
 ```        
         
-# Task 2.1<br />
-Scenario: Check the Multiplier Counter with auto-generated array<br />
-Given ArrayGenerate function is called
-And array is filled with int numbers
-When MultiplierCounter
-Then
+# Task 2.0<br />
+SCENARIO: Check the Multiplier Counter with auto-generated array<br />
+GIVEN ArrayGenerate function is called
+AND array is filled with int numbers
+WHEN MultiplierCounter function is called
+THEN number of multipliers either 4 or 6 is shown
+
+
+SCENARIO: Check the Multiplier Counter with manualy-defined array<br />
+GIVEN An array with {4,6,1,2,-20,5,10,12) values <br />
+WHEN Multiplier Counter function is called<br />
+THEN "number of multipliers either 4 or 6 = 4" message is shown <br />
+
+SCENARIO: Check the Multiplier Counter with invalid data<br />
+GIVEN An array with string values <br />
+WHEN Multiplier Counter function is called with string array <br />
+THEN error message is shown <br />
+
+# Task 2.1
+ SCENARIO: Check IsPalindrome() function with palindrome value 
+ GIVEN Palindrome function is called
+ WHEN User has entered a string "1221"
+ THEN "True" output is shown <br />
+ 
+ SCENARIO: Check IsPalindrome() function with not palindrome value
+ GIVEN Palindrome function is called
+ WHEN User has entered a string "notpalindrome"
+ THEN "false" output is shown <br />
+ 
+ # Task 3.0
+ 
+ 
+ 
 
 
