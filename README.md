@@ -73,6 +73,9 @@ THEN error message is shown <br />
  
 https://user-images.githubusercontent.com/104302356/191267509-e83dfc71-82c2-4769-83f6-e5935644da4d.mp4
 
+
+I find this defect critical because there`s no workaround, all the games from the banner cannot be opened through this way 
+
 Summary: No search results are shown in search page after selecting a category 
  Priority: High
  Environment: PC Windows 10, Opera Browser 104.0
@@ -93,6 +96,6 @@ Summary: No search results are shown in search page after selecting a category
 
 https://user-images.githubusercontent.com/104302356/191270303-0dcda119-a5fc-416d-b5f3-60ed557b45f2.mp4
 
-
+I find this defect critical because the main goal of this function(search) cannot be met, it breaks every time category is changed
 
 
