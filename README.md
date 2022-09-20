@@ -96,6 +96,7 @@ Summary: No search results are shown in search page after selecting a category
 
 https://user-images.githubusercontent.com/104302356/191270303-0dcda119-a5fc-416d-b5f3-60ed557b45f2.mp4
 
-I find this defect critical because the main goal of this function(search) cannot be met, it breaks every time category is changed
+I find this defect critical because the main goal of this function(search) cannot be met, it breaks every time category is changed<br />
 
 
+note: VideoSlots is not availible in Ukraine, so I couldn`t create a new account and check the functionality deeper, but when I tried to use VPN, I reached the requests limit<br />
