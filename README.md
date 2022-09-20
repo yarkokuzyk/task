@@ -53,6 +53,14 @@ THEN error message is shown <br />
  
  # Task 3.0
  
+ Summary: Error message is shown in the "jackpots" page after clicking big banner game 
+ Priority: High
+ Severity: Blocker
+ Steps to reproduce:
+ 1. Open videoslots.com page
+ 2. Go to "Jacpots" tab
+ 3. Click on big banner game
+ 4. Pay attention to the error
  
  
 
