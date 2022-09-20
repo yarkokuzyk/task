@@ -53,12 +53,12 @@ THEN error message is shown <br />
  
  # Task 3.0
  
- Summary: Error message is shown in the "jackpots" page after clicking big banner game 
- Priority: High
- Environment: PC Windows 10, Opera Browser 104.0
- Date: 09.20.2022
- Severity: Blocker
- Steps to reproduce:
+ Summary: Error message is shown in the "jackpots" page after clicking big banner game <br />
+ Priority: High<br />
+ Environment: PC Windows 10, Opera Browser 104.0<br />
+ Date: 09.20.2022<br />
+ Severity: Blocker<br />
+ Steps to reproduce:<br />
  1. Open videoslots.com page
  2. Go to "Jackpots" tab
  3. Click on big banner game
@@ -74,19 +74,19 @@ THEN error message is shown <br />
 https://user-images.githubusercontent.com/104302356/191267509-e83dfc71-82c2-4769-83f6-e5935644da4d.mp4
 
 
-I find this defect critical because there`s no workaround, all the games from the banner cannot be opened through this way 
+I find this defect critical because there`s no workaround, all the games from the banner cannot be opened through this way <br />
 
-Summary: No search results are shown in search page after selecting a category 
- Priority: High
- Environment: PC Windows 10, Opera Browser 104.0
- Date: 09.20.2022
- Severity: Critical
+Summary: No search results are shown in search page after selecting a category <br />
+ Priority: High<br />
+ Environment: PC Windows 10, Opera Browser 104.0<br />
+ Date: 09.20.2022<br />
+ Severity: Critical<br />
  Steps to reproduce:
  1. Open videoslots.com page
  2. Click on "Jackpots" category in the side-menu
  3. Click on "Slots" category in the side-menu
  4. Pay attention that no games are shown
-
+<br />
  Actual result: No search results are shown in search page after selecting a category <br /> 
  Expected result: Games are shown due to the category after user selecting it in the side-menu<br />
  Attachments:
