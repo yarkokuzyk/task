@@ -40,14 +40,15 @@ WHEN Multiplier Counter function is called with string array <br />
 THEN error message is shown <br />
 
 # Task 2.1
- SCENARIO: Check IsPalindrome() function with palindrome value 
- GIVEN Palindrome function is called
- WHEN User has entered a string "1221"
+
+ SCENARIO: Check IsPalindrome() function with palindrome value <br />
+ GIVEN Palindrome function is called<br />
+ WHEN User has entered a string "1221"<br />
  THEN "True" output is shown <br />
  
- SCENARIO: Check IsPalindrome() function with not palindrome value
- GIVEN Palindrome function is called
- WHEN User has entered a string "notpalindrome"
+ SCENARIO: Check IsPalindrome() function with not palindrome value<br />
+ GIVEN Palindrome function is called<br />
+ WHEN User has entered a string "notpalindrome"<br />
  THEN "false" output is shown <br />
  
  # Task 3.0
